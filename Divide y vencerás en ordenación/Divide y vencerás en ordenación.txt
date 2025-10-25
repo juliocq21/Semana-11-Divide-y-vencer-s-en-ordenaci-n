@@ -1,0 +1,24 @@
+Técnica Divide y Vencerás:
+Divide el problema en partes más pequeñas, resuelve cada una y combina los resultados. Es eficiente y usada en ordenamientos y búsquedas.
+
+Ordenación Shell (Shell Sort):
+Mejora la inserción directa comparando elementos lejanos y reduciendo los intervalos.
+
+Mejor caso: 𝑂(𝑛 log 𝑛)
+
+Promedio: 𝑂(𝑛^(3/2))
+
+Peor caso: 𝑂(𝑛²)
+
+Espacio: 𝑂(1)
+
+Ordenación Rápida (Quick Sort):
+Aplica divide y vencerás: elige un pivote y ordena los elementos menores y mayores a su alrededor.
+
+Mejor caso: 𝑂(𝑛 log 𝑛)
+
+Promedio: 𝑂(𝑛 log 𝑛)
+
+Peor caso: 𝑂(𝑛²)
+
+Espacio: 𝑂(log 𝑛)
