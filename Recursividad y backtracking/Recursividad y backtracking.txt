@@ -1,0 +1,25 @@
+La recursividad es una técnica de programación en la que una función se llama a sí misma para resolver un problema dividiéndolo en subproblemas más pequeños del mismo tipo. Es especialmente útil en problemas con estructuras repetitivas o que pueden descomponerse de manera similar.
+
+Componentes principales:
+
+Caso base: condición que detiene la recursión y evita llamadas infinitas.
+Llamada recursiva: parte de la función que se llama a sí misma con una versión reducida del problema, acercándose al caso base.
+
+Pila de llamadas:
+Cada llamada recursiva se guarda en la pila de llamadas, una estructura LIFO donde se almacenan los parámetros y variables locales de cada función. Cuando una función termina, se elimina su marco de la pila y se retoma la ejecución anterior.
+
+Recursividad indirecta:
+Ocurre cuando una función A llama a una función B, y esta última vuelve a llamar a A (o a otras funciones en cadena).
+
+Backtracking:
+Técnica recursiva para resolver problemas de decisión. Explora soluciones parciales y retrocede cuando una opción no lleva a una solución válida.
+
+Recursión vs Iteración:
+
+Recursión:
+Usa la pila de llamadas (mayor uso de memoria).
+Más elegante y simple para problemas estructurados repetitivamente (ej. factorial, árboles, grafos).
+
+Iteración:
+Usa bucles (más eficiente en memoria y tiempo).
+Puede ser menos intuitiva para ciertos problemas.
