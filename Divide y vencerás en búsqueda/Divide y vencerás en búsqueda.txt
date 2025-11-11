@@ -3,8 +3,10 @@ Recorre todos los elementos de la lista uno por uno hasta encontrar el valor bus
 - Mejor caso: 		O(1)
 - Caso promedio: 	O(n)
 - Peor caso: 		O(n)
+
 Búsqueda binaria:
 Funciona solo si la lista está ordenada. Divide el rango de búsqueda a la mitad en cada paso, descartando la mitad de los elementos.
 - Mejor caso: 		O(1)
 - Caso promedio: 	O(log n)
 - Peor caso: 		O(log n)
+
