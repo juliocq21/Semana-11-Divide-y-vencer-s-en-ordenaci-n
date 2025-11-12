@@ -1,7 +1,6 @@
 La recursividad es una técnica de programación en la que una función se llama a sí misma para resolver un problema dividiéndolo en subproblemas más pequeños del mismo tipo. Es especialmente útil en problemas con estructuras repetitivas o que pueden descomponerse de manera similar.
 
 Componentes principales:
-
 Caso base: condición que detiene la recursión y evita llamadas infinitas.
 Llamada recursiva: parte de la función que se llama a sí misma con una versión reducida del problema, acercándose al caso base.
 
@@ -22,4 +21,5 @@ Más elegante y simple para problemas estructurados repetitivamente (ej. factori
 
 Iteración:
 Usa bucles (más eficiente en memoria y tiempo).
+
 Puede ser menos intuitiva para ciertos problemas.
