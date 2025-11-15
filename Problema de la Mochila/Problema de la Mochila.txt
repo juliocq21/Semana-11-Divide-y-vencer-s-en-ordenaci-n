@@ -1,0 +1,6 @@
+El Problema de la Mochila 0/1:
+Consiste en decidir qué objetos seleccionar para meter en una mochila,
+donde:
+- Cada objeto tiene peso y valor.
+- La mochila tiene un peso máximo permitido.
+- Se quiere maximizar el valor total sin exceder el peso máximo.
