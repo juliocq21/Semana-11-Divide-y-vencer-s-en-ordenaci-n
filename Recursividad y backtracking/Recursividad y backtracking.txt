@@ -20,6 +20,6 @@ Más elegante y simple para problemas estructurados repetitivamente (ej. factori
 
 Iteración:
 Usa bucles (más eficiente en memoria y tiempo).
-
 Puede ser menos intuitiva para ciertos problemas.
+
 
